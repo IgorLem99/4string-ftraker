@@ -150,4 +150,6 @@ func main() {
 
 	info := ShowTrainingInfo(action, trainingType, duration, weight, height, lengthPool, countPool)
 	fmt.Println(info)
+	//nothing intresting, just text for new branch
+	//one more
 }
